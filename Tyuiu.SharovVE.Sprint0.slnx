@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Tyuiu.SharovVE.Sprint0.Task0.V0/Tyuiu.SharovVE.Sprint0.Task0.V0.csproj" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.SharovVE.Sprint0.Task0.V0/Tyuiu.SharovVE.Sprint0.Task0.V0.csproj" />
+  </Folder>
 </Solution>
